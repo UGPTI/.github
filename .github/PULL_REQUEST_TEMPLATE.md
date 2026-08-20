@@ -12,8 +12,10 @@ GitHub Issue: `#____`
 -
 -
 
+## Testing 
+Describe how this change was tested.
 
-## Database Changes
+## Database Changes (if applicable)
 If applicable:
 
 Migration script:
