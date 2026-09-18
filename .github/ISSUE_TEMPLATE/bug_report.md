@@ -3,6 +3,7 @@ name: Bug Report
 about: Report something that is not working as expected
 title: "[BUG] "
 labels: ""
+projects: ["ugpti/2"]
 assignees: ""
 ---
 
