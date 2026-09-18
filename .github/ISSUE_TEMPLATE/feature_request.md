@@ -3,6 +3,7 @@ name: Feature / Enhancement
 about: Request a new capability or improvement
 title: "[FEATURE] "
 labels: ""
+projects: ["ugpti/2"]
 assignees: ""
 ---
 
