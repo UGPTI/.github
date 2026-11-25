@@ -36,12 +36,3 @@ Does this depend on another application, database, dataset, API, researcher, or 
 
 ## Notes / Open Questions
 List unresolved questions, assumptions, or decisions needed.
-
-## Definition of Done
-- [ ] Acceptance criteria met
-- [ ] Code reviewed
-- [ ] Testing completed
-- [ ] Product owner validated
-- [ ] Requirements updated if needed
-- [ ] Runbook/documentation updated if needed
-- [ ] Production deployment completed if applicable
