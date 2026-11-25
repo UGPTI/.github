@@ -11,31 +11,24 @@ assignees: ""
 Briefly describe what is not working.
 
 ## Related Request
-Coule be Teams card link.
+> Could be MS Teams card link.
 
 ## Current Behavior
-What actually happens?
+> What actually happens?
 
-## Expected Result
-What should happen?
+### Expected Result
+> What should happen?
 
-## Steps to Reproduce
+### Steps to Reproduce
+```
 1.
 2.
 3.
-
-## Application / Component (if any)
-Application:
-
-Component:
+```
 
 
-## Evidence
-Logs, screenshots, error messages, recordings, or other useful information:
+### Possible Solution
+<!--- Only if you have suggestions on a fix for the bug -->
 
-## Acceptance Criteria
-- [ ] Root cause identified
-- [ ] Fix implemented
-- [ ] Relevant tests completed
-- [ ] Product owner validated if required
-- [ ] Documentation/runbook updated if required
+### Additional context/Screenshots
+Add any other context about the problem here. If applicable, add screenshots to help explain.
